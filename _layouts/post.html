@@ -4,10 +4,9 @@ layout: default
 <div class="flex-container">
   {% include header.html %}
   <article class="article-page">
-<!-- 使用条件判断来加载图床图片或本地图片 -->
-      <div class="cover-image" 
-           style="background: url({% if page.img contains 'http' %}{{ page.img }}{% else %}{{ site.baseurl }}{{ '/assets/img/' | append: page.img }}{% endif %}) center no-repeat; background-size: cover;">
-      </div>
+    <div class="page-image">
+      <div class="cover-image" style="background: url({{"/assets/img/" | prepend: site.baseurl | append : page.img}}) center no-repeat; background-size: cover;"></div>
+    </div>
     <div class="wrapper">
       <div class="page-content">
         <div class="header-page">
