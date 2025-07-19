@@ -3,7 +3,7 @@ title: jellyfin+vercel+typora个人博客重构
 layout: post
 categories: Test
 tags: [normal,personal]
-img: https://s21.ax1x.com/2019/05/07/Er9SMR.jpg
+img: http://szlao1bw7.hn-bkt.clouddn.com/31l-8hY1mt4.jpg
 ---
 ## 1.变化
 ### 居住地址变化
