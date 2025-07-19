@@ -3,18 +3,13 @@ title: jellyfin+vercel+typora个人博客重构
 layout: post
 categories: Test
 tags: [normal,personal]
-img: http://img.violin.site/FhPw0t3CQy-YJk8IV8heDa34Yqa2
+img: https://imgse.com/i/Er9SMR
 ---
 ## 1.变化
-
 ### 居住地址变化
-
-![](http://img.violin.site/FhPw0t3CQy-YJk8IV8heDa34Yqa2)
-
+[![ErpiCQ.jpg](https://s21.ax1x.com/2019/05/07/ErpiCQ.jpg)](https://imgse.com/i/ErpiCQ)
 ### h3
-
 * hello world
-
 > life is __beautiful__
 {% highlight html linenos %}
     <!DOCTYPE html>
@@ -28,4 +23,4 @@ img: http://img.violin.site/FhPw0t3CQy-YJk8IV8heDa34Yqa2
     </body>
     </html>
 {% endhighlight %}
-[听点音乐](https://blog.violin.site/music)
+[听点音乐](https://m.violin.site/music)
