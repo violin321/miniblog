@@ -13,6 +13,9 @@ permalink: /about/
     </section>
     <section class="about-body">
       <ul class="contact-list">
+{% if site.email %}
+        <li class="email"><a href="mailto:{{site.email}}"><i class="iconfont icon-weibo-line" style="font-size:larger;"></i></a></li>
+        
       {% if site.email %}
         <li class="email"><a href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
       {% else %}
